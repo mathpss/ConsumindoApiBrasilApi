@@ -1,0 +1,6 @@
+@ConsumindoApiDe3__HostAddress = http://localhost:5168
+
+GET {{ConsumindoApiDe3__HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
