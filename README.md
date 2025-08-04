@@ -33,6 +33,6 @@ GET ``` /api/v1/Banco/busca/{codigoBanco}``` Trazer um banco baseado no seu cód
 
 - exemplo: ``` /api/v1/Banco/busca/70 ```
 
-  GET ``` /api/v1/Endereco/busca/{cep} ``` Trazer dados do CEP informado.
+GET ``` /api/v1/Endereco/busca/{cep} ``` Trazer dados do CEP informado.
 
-  - exemplo: ``` /api/v1/Endereco/busca/13454001 ```
+- exemplo: ``` /api/v1/Endereco/busca/13454001 ```
